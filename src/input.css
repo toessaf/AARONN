@@ -1,6 +1,10 @@
 @import "tailwindcss";
+.rubik{
+      font-family: rubik;
+      
+}
 body{
       font-family: "Syne";
 
-
+     
 }
